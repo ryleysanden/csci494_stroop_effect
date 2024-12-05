@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">colormatch</string>
+    <string name="splash_game_name">Stroop Effect</string>
+
+    <string name="score_note">Your Score</string>
+    
+
+
+</resources>
